@@ -27,7 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/@isaacsufyan/new-logcat-android-studio-dolphin-a8a52a6d2ae4
+https://medium.com/@isaacsufyan/
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
