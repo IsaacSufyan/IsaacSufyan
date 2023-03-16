@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/isaacsufyan" target="blank"><img src="https://img.shields.io/twitter/follow/isaacsufyan?logo=twitter&style=for-the-badge" alt="isaacsufyan" /></a> </p>
 
-- 🔭 I’m currently working at [Tech Dart](https://about.me/isaacsufyan)
+- 🔭 I’m currently working at [Self-Employed](https://about.me/isaacsufyan)
 
 - 🌱 I’m currently learning **Java Full Stack (Spring Boot-React-Vaadin-AWS)**
 
@@ -27,7 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/@isaacsufyan/
+https://isaacsufyan.medium.com
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
