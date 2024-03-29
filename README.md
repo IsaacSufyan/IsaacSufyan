@@ -7,36 +7,30 @@
 
 <p align="left"> <a href="https://twitter.com/isaacsufyan" target="blank"><img src="https://img.shields.io/twitter/follow/isaacsufyan?logo=twitter&style=for-the-badge" alt="isaacsufyan" /></a> </p>
 
-- 🔭 I’m currently working at [Self-Employed](https://about.me/isaacsufyan)
+- 🔭 I’m currently working at [Systems Limited](https://www.systemsltd.com/)
 
 - 🌱 I’m currently learning **Java Full Stack (Spring Boot-React-Vaadin-AWS)**
 
 - 👯 I’m looking to collaborate on [Android](https://www.android.com/)
 
-- 👨‍💻 Some my projects are available at [https://github.com/isaacSufyan](https://github.com/isaacSufyan)
+- 👨‍💻 Some my projects are available at [Github](https://github.com/isaacSufyan)
 
-- 📝 I regularly write articles on [https://medium.com/@isaacsufyan](https://medium.com/@isaacsufyan)
+- 📝 In free time I write articles on [Medium](https://isaacsufyan.medium.com/)
 
-- 💬 Ask me about **Android,KMM,Spring Boot, React, Vaadin, AWS, MVC/MVP/MVVM/MVI, Clean Architecture, Onion Architecture, System Architect & Design**
-
-- 📫 How to reach me **isaac.sufyan@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/isaacsufyan/](https://www.linkedin.com/in/isaacsufyan/)
+- 💬 Ask me about **Android, KMP, Spring Boot, React, Vaadin, AWS, MVC/MVP/MVVM/MVI, Clean Architecture, Onion Architecture, System Architect & Design**
 
 - ⚡ Fun fact **I think I am multi-talented, cricket, badminton, Hiking, History, Teach and long talk on Software Architecture**
+  
+- 📫 How to reach me, know about my experiences, and social appearances: [Click here](https://isaacsufyan.netlify.app/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-https://isaacsufyan.medium.com
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/isaacsufyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isaacsufyan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/isaacsufyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaacsufyan/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/isaacsufyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/isaacsufyan/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/isaacsufyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/isaacsufyan/" height="30" width="40" /></a>
-<a href="https://medium.com/@isaacsufyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@isaacsufyan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/isaacsufyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaacsufyan/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/isaacsufyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/isaacsufyan/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/isaacsufyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/isaacsufyan/" height="30" width="40" /></a>
+<a href="https://isaacsufyan.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@isaacsufyan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
